@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = victor.lenain26@gmail.com
+	name = victor lenain
